@@ -52,3 +52,4 @@ except Exception as e:
 # 关闭数据库
 cur.close()
 db.close()
+print('_________________')
